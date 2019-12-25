@@ -10,6 +10,8 @@ beautifulsoup4 = "*"
 selenium = "*"
 requests = "*"
 schedule = "*"
+pymysql = "*"
+openpyxl = "*"
 
 [requires]
 python_version = "3.8"
